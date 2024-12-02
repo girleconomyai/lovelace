@@ -1,0 +1,114 @@
+# flyctl launch added from .gitignore
+**/node_modules
+out
+
+**/.env
+**/.env.production
+**/concatenated-output.ts
+**/embedding-cache.json
+**/packages/plugin-buttplug/intiface-engine
+
+**/.DS_Store
+
+**/dist
+# Allow models directory but ignore model files
+**/models/*.gguf
+
+**/cookies.json
+
+**/db.sqlite
+**/searches
+**/tweets
+
+**/*.gguf
+**/*.onnx
+**/*.wav
+**/*.mp3
+
+**/logs
+
+**/test-report.json
+**/content_cache
+**/test_data
+**/tokencache
+**/tweetcache
+**/twitter_cookies.json
+**/timeline_cache.json
+
+**/*.sqlite
+
+#**/characters
+
+**/packages/core/src/providers/cache
+**/packages/core/src/providers/cache/*
+**/cache/*
+**/packages/plugin-coinbase/src/plugins/transactions.csv
+**/packages/plugin-coinbase/package-lock.json
+
+**/tsup.config.bundled_*.mjs
+
+**/.turbo
+
+# flyctl launch added from agent/.gitignore
+agent/**/*.ts
+!agent/**/index.ts
+!agent/**/character.ts
+agent/**/.env
+agent/**/*.env
+agent/**/.env*
+agent/data
+agent/generatedImages
+
+# flyctl launch added from client/.gitignore
+# Logs
+client/**/logs
+client/**/*.log
+client/**/npm-debug.log*
+client/**/yarn-debug.log*
+client/**/yarn-error.log*
+client/**/pnpm-debug.log*
+client/**/lerna-debug.log*
+
+client/**/node_modules
+client/**/dist
+client/**/dist-ssr
+client/**/*.local
+
+# Editor directories and files
+client/**/.vscode/*
+!client/**/.vscode/extensions.json
+client/**/.idea
+client/**/.DS_Store
+client/**/*.suo
+client/**/*.ntvs*
+client/**/*.njsproj
+client/**/*.sln
+client/**/*.sw?
+
+# flyctl launch added from docs/.gitignore
+# Dependencies
+docs/node_modules
+
+# Production
+docs/build
+
+# Generated files
+docs/**/.docusaurus
+docs/**/.cache-loader
+
+# Misc
+docs/**/.DS_Store
+docs/**/.env.local
+docs/**/.env.development.local
+docs/**/.env.test.local
+docs/**/.env.production.local
+
+docs/**/npm-debug.log*
+
+# flyctl launch added from packages/core/.gitignore
+packages/core/**/node_modules
+packages/core/**/dist
+packages/core/**/elizaConfig.yaml
+packages/core/**/custom_actions
+packages/core/**/cache
+fly.toml

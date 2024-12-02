@@ -18,4 +18,4 @@
 
 ## Defined in
 
-[packages/core/src/goals.ts:45](https://github.com/ai16z/eliza/blob/main/packages/core/src/goals.ts#L45)
+[packages/core/src/goals.ts:45](https://github.com/girleconomyai/lovelace/blob/main/packages/core/src/goals.ts#L45)

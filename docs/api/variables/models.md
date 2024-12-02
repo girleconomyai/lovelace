@@ -6,4 +6,4 @@
 
 ## Defined in
 
-[packages/core/src/models.ts:4](https://github.com/ai16z/eliza/blob/main/packages/core/src/models.ts#L4)
+[packages/core/src/models.ts:4](https://github.com/girleconomyai/lovelace/blob/main/packages/core/src/models.ts#L4)
