@@ -62,4 +62,5 @@ EXPOSE 3000
 ENV DATABASE_URL="file:///data/sqlite.db"
 
 # Set the command to run the application
-CMD ["pnpm", "start", "--character=characters/lovelace.character.json"]
+# CMD ["pnpm", "start", "--character=characters/lovelace.character.json"]
+ENTRYPOINT ["pnpm", "start", "--character=characters/lovelace.character.json"]
