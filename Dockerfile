@@ -56,4 +56,4 @@ EXPOSE 3000
 VOLUME /app/data
 
 # Set the command to run the application
-CMD ["pnpm", "start", "--character=characters/lovelace.character.json"]
+CMD ["pnpm", "start", "--non-interactive", "--character=characters/lovelace.character.json"]
