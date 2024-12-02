@@ -24,5 +24,4 @@ cpus = 1
 [mounts]
 source = "data"
 destination = "/data"
-processes = ["app"]
 initial_size = "20gb"
