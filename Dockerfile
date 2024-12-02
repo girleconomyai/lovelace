@@ -51,5 +51,9 @@ COPY --from=builder /app/packages ./packages
 COPY --from=builder /app/scripts ./scripts
 COPY --from=builder /app/characters ./characters
 
+EXPOSE 3000
+
+VOLUME /app/data
+
 # Set the command to run the application
-CMD ["pnpm", "start"]
+CMD ["pnpm", "start", "--character=characters/lovelace.character.json"]
