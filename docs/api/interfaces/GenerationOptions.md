@@ -14,7 +14,7 @@ Configuration options for generating objects with a model.
 
 [packages/core/src/generation.ts:1058](https://github.com/monilpat/eliza/blob/main/packages/core/src/generation.ts#L1058)
 
-***
+---
 
 ### context
 
@@ -24,7 +24,7 @@ Configuration options for generating objects with a model.
 
 [packages/core/src/generation.ts:1059](https://github.com/monilpat/eliza/blob/main/packages/core/src/generation.ts#L1059)
 
-***
+---
 
 ### modelClass
 
@@ -34,7 +34,7 @@ Configuration options for generating objects with a model.
 
 [packages/core/src/generation.ts:1060](https://github.com/monilpat/eliza/blob/main/packages/core/src/generation.ts#L1060)
 
-***
+---
 
 ### schema?
 
@@ -44,7 +44,7 @@ Configuration options for generating objects with a model.
 
 [packages/core/src/generation.ts:1061](https://github.com/monilpat/eliza/blob/main/packages/core/src/generation.ts#L1061)
 
-***
+---
 
 ### schemaName?
 
@@ -54,7 +54,7 @@ Configuration options for generating objects with a model.
 
 [packages/core/src/generation.ts:1062](https://github.com/monilpat/eliza/blob/main/packages/core/src/generation.ts#L1062)
 
-***
+---
 
 ### schemaDescription?
 
@@ -64,7 +64,7 @@ Configuration options for generating objects with a model.
 
 [packages/core/src/generation.ts:1063](https://github.com/monilpat/eliza/blob/main/packages/core/src/generation.ts#L1063)
 
-***
+---
 
 ### stop?
 
@@ -74,7 +74,7 @@ Configuration options for generating objects with a model.
 
 [packages/core/src/generation.ts:1064](https://github.com/monilpat/eliza/blob/main/packages/core/src/generation.ts#L1064)
 
-***
+---
 
 ### mode?
 
@@ -84,11 +84,11 @@ Configuration options for generating objects with a model.
 
 [packages/core/src/generation.ts:1065](https://github.com/monilpat/eliza/blob/main/packages/core/src/generation.ts#L1065)
 
-***
+---
 
-### experimental\_providerMetadata?
+### experimental_providerMetadata?
 
-> `optional` **experimental\_providerMetadata**: `Record`\<`string`, `unknown`\>
+> `optional` **experimental_providerMetadata**: `Record`\<`string`, `unknown`\>
 
 #### Defined in
 

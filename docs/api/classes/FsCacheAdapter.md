@@ -46,7 +46,7 @@
 
 [packages/core/src/cache.ts:39](https://github.com/monilpat/eliza/blob/main/packages/core/src/cache.ts#L39)
 
-***
+---
 
 ### set()
 
@@ -70,7 +70,7 @@
 
 [packages/core/src/cache.ts:48](https://github.com/monilpat/eliza/blob/main/packages/core/src/cache.ts#L48)
 
-***
+---
 
 ### delete()
 

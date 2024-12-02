@@ -50,7 +50,7 @@ Add abstract initialize method that must be implemented by derived classes
 
 [packages/core/src/types.ts:973](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L973)
 
-***
+---
 
 ### transcribeAttachment()
 
@@ -68,7 +68,7 @@ Add abstract initialize method that must be implemented by derived classes
 
 [packages/core/src/types.ts:1066](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L1066)
 
-***
+---
 
 ### transcribeAttachmentLocally()
 
@@ -86,7 +86,7 @@ Add abstract initialize method that must be implemented by derived classes
 
 [packages/core/src/types.ts:1067](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L1067)
 
-***
+---
 
 ### transcribe()
 
@@ -104,7 +104,7 @@ Add abstract initialize method that must be implemented by derived classes
 
 [packages/core/src/types.ts:1070](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L1070)
 
-***
+---
 
 ### transcribeLocally()
 

@@ -50,7 +50,7 @@ Add abstract initialize method that must be implemented by derived classes
 
 [packages/core/src/types.ts:973](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L973)
 
-***
+---
 
 ### getInstance()
 
@@ -64,7 +64,7 @@ Add abstract initialize method that must be implemented by derived classes
 
 [packages/core/src/types.ts:1116](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L1116)
 
-***
+---
 
 ### convertPdfToText()
 

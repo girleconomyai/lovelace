@@ -32,7 +32,7 @@ Optional initialization
 
 [packages/core/src/types.ts:743](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L743)
 
-***
+---
 
 ### close()
 
@@ -48,7 +48,7 @@ Close database connection
 
 [packages/core/src/types.ts:746](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L746)
 
-***
+---
 
 ### getAccountById()
 
@@ -68,7 +68,7 @@ Get account by ID
 
 [packages/core/src/types.ts:749](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L749)
 
-***
+---
 
 ### createAccount()
 
@@ -88,7 +88,7 @@ Create new account
 
 [packages/core/src/types.ts:752](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L752)
 
-***
+---
 
 ### getMemories()
 
@@ -122,7 +122,7 @@ Get memories matching criteria
 
 [packages/core/src/types.ts:755](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L755)
 
-***
+---
 
 ### getMemoryById()
 
@@ -140,7 +140,7 @@ Get memories matching criteria
 
 [packages/core/src/types.ts:765](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L765)
 
-***
+---
 
 ### getMemoriesByRoomIds()
 
@@ -164,7 +164,7 @@ Get memories matching criteria
 
 [packages/core/src/types.ts:767](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L767)
 
-***
+---
 
 ### getCachedEmbeddings()
 
@@ -174,17 +174,17 @@ Get memories matching criteria
 
 • **params**
 
-• **params.query\_table\_name**: `string`
+• **params.query_table_name**: `string`
 
-• **params.query\_threshold**: `number`
+• **params.query_threshold**: `number`
 
-• **params.query\_input**: `string`
+• **params.query_input**: `string`
 
-• **params.query\_field\_name**: `string`
+• **params.query_field_name**: `string`
 
-• **params.query\_field\_sub\_name**: `string`
+• **params.query_field_sub_name**: `string`
 
-• **params.query\_match\_count**: `number`
+• **params.query_match_count**: `number`
 
 #### Returns
 
@@ -194,7 +194,7 @@ Get memories matching criteria
 
 [packages/core/src/types.ts:773](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L773)
 
-***
+---
 
 ### log()
 
@@ -220,7 +220,7 @@ Get memories matching criteria
 
 [packages/core/src/types.ts:782](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L782)
 
-***
+---
 
 ### getActorDetails()
 
@@ -240,7 +240,7 @@ Get memories matching criteria
 
 [packages/core/src/types.ts:789](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L789)
 
-***
+---
 
 ### searchMemories()
 
@@ -258,9 +258,9 @@ Get memories matching criteria
 
 • **params.embedding**: `number`[]
 
-• **params.match\_threshold**: `number`
+• **params.match_threshold**: `number`
 
-• **params.match\_count**: `number`
+• **params.match_count**: `number`
 
 • **params.unique**: `boolean`
 
@@ -272,7 +272,7 @@ Get memories matching criteria
 
 [packages/core/src/types.ts:791](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L791)
 
-***
+---
 
 ### updateGoalStatus()
 
@@ -294,7 +294,7 @@ Get memories matching criteria
 
 [packages/core/src/types.ts:801](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L801)
 
-***
+---
 
 ### searchMemoriesByEmbedding()
 
@@ -306,7 +306,7 @@ Get memories matching criteria
 
 • **params**
 
-• **params.match\_threshold?**: `number`
+• **params.match_threshold?**: `number`
 
 • **params.count?**: `number`
 
@@ -326,7 +326,7 @@ Get memories matching criteria
 
 [packages/core/src/types.ts:806](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L806)
 
-***
+---
 
 ### createMemory()
 
@@ -348,7 +348,7 @@ Get memories matching criteria
 
 [packages/core/src/types.ts:818](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L818)
 
-***
+---
 
 ### removeMemory()
 
@@ -368,7 +368,7 @@ Get memories matching criteria
 
 [packages/core/src/types.ts:824](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L824)
 
-***
+---
 
 ### removeAllMemories()
 
@@ -388,7 +388,7 @@ Get memories matching criteria
 
 [packages/core/src/types.ts:826](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L826)
 
-***
+---
 
 ### countMemories()
 
@@ -410,7 +410,7 @@ Get memories matching criteria
 
 [packages/core/src/types.ts:828](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L828)
 
-***
+---
 
 ### getGoals()
 
@@ -438,7 +438,7 @@ Get memories matching criteria
 
 [packages/core/src/types.ts:834](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L834)
 
-***
+---
 
 ### updateGoal()
 
@@ -456,7 +456,7 @@ Get memories matching criteria
 
 [packages/core/src/types.ts:842](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L842)
 
-***
+---
 
 ### createGoal()
 
@@ -474,7 +474,7 @@ Get memories matching criteria
 
 [packages/core/src/types.ts:844](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L844)
 
-***
+---
 
 ### removeGoal()
 
@@ -492,7 +492,7 @@ Get memories matching criteria
 
 [packages/core/src/types.ts:846](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L846)
 
-***
+---
 
 ### removeAllGoals()
 
@@ -510,7 +510,7 @@ Get memories matching criteria
 
 [packages/core/src/types.ts:848](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L848)
 
-***
+---
 
 ### getRoom()
 
@@ -528,7 +528,7 @@ Get memories matching criteria
 
 [packages/core/src/types.ts:850](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L850)
 
-***
+---
 
 ### createRoom()
 
@@ -546,7 +546,7 @@ Get memories matching criteria
 
 [packages/core/src/types.ts:852](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L852)
 
-***
+---
 
 ### removeRoom()
 
@@ -564,7 +564,7 @@ Get memories matching criteria
 
 [packages/core/src/types.ts:854](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L854)
 
-***
+---
 
 ### getRoomsForParticipant()
 
@@ -582,7 +582,7 @@ Get memories matching criteria
 
 [packages/core/src/types.ts:856](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L856)
 
-***
+---
 
 ### getRoomsForParticipants()
 
@@ -600,7 +600,7 @@ Get memories matching criteria
 
 [packages/core/src/types.ts:858](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L858)
 
-***
+---
 
 ### addParticipant()
 
@@ -620,7 +620,7 @@ Get memories matching criteria
 
 [packages/core/src/types.ts:860](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L860)
 
-***
+---
 
 ### removeParticipant()
 
@@ -640,7 +640,7 @@ Get memories matching criteria
 
 [packages/core/src/types.ts:862](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L862)
 
-***
+---
 
 ### getParticipantsForAccount()
 
@@ -658,7 +658,7 @@ Get memories matching criteria
 
 [packages/core/src/types.ts:864](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L864)
 
-***
+---
 
 ### getParticipantsForRoom()
 
@@ -676,7 +676,7 @@ Get memories matching criteria
 
 [packages/core/src/types.ts:866](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L866)
 
-***
+---
 
 ### getParticipantUserState()
 
@@ -696,7 +696,7 @@ Get memories matching criteria
 
 [packages/core/src/types.ts:868](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L868)
 
-***
+---
 
 ### setParticipantUserState()
 
@@ -718,7 +718,7 @@ Get memories matching criteria
 
 [packages/core/src/types.ts:873](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L873)
 
-***
+---
 
 ### createRelationship()
 
@@ -740,7 +740,7 @@ Get memories matching criteria
 
 [packages/core/src/types.ts:879](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L879)
 
-***
+---
 
 ### getRelationship()
 
@@ -762,7 +762,7 @@ Get memories matching criteria
 
 [packages/core/src/types.ts:881](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L881)
 
-***
+---
 
 ### getRelationships()
 

@@ -50,7 +50,7 @@ Add abstract initialize method that must be implemented by derived classes
 
 [packages/core/src/types.ts:973](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L973)
 
-***
+---
 
 ### isVideoUrl()
 
@@ -68,7 +68,7 @@ Add abstract initialize method that must be implemented by derived classes
 
 [packages/core/src/types.ts:1075](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L1075)
 
-***
+---
 
 ### fetchVideoInfo()
 
@@ -86,7 +86,7 @@ Add abstract initialize method that must be implemented by derived classes
 
 [packages/core/src/types.ts:1076](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L1076)
 
-***
+---
 
 ### downloadVideo()
 
@@ -104,7 +104,7 @@ Add abstract initialize method that must be implemented by derived classes
 
 [packages/core/src/types.ts:1077](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L1077)
 
-***
+---
 
 ### processVideo()
 

@@ -24,7 +24,7 @@
 
 [packages/core/src/types.ts:890](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L890)
 
-***
+---
 
 ### setCache()
 
@@ -48,7 +48,7 @@
 
 [packages/core/src/types.ts:895](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L895)
 
-***
+---
 
 ### deleteCache()
 

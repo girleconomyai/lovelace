@@ -28,25 +28,25 @@ Model configurations by provider
 
 > **groq**: [`Model`](Model.md)
 
-### llama\_cloud
+### llama_cloud
 
-> **llama\_cloud**: [`Model`](Model.md)
+> **llama_cloud**: [`Model`](Model.md)
 
 ### together
 
 > **together**: [`Model`](Model.md)
 
-### llama\_local
+### llama_local
 
-> **llama\_local**: [`Model`](Model.md)
+> **llama_local**: [`Model`](Model.md)
 
 ### google
 
 > **google**: [`Model`](Model.md)
 
-### claude\_vertex
+### claude_vertex
 
-> **claude\_vertex**: [`Model`](Model.md)
+> **claude_vertex**: [`Model`](Model.md)
 
 ### redpill
 
@@ -76,9 +76,9 @@ Model configurations by provider
 
 > **gaianet**: [`Model`](Model.md)
 
-### ali\_bailian
+### ali_bailian
 
-> **ali\_bailian**: [`Model`](Model.md)
+> **ali_bailian**: [`Model`](Model.md)
 
 ### volengine
 

@@ -14,7 +14,7 @@ Available client platforms
 
 [packages/core/src/types.ts:601](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L601)
 
-***
+---
 
 ### DIRECT
 
@@ -24,7 +24,7 @@ Available client platforms
 
 [packages/core/src/types.ts:602](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L602)
 
-***
+---
 
 ### TWITTER
 
@@ -34,7 +34,7 @@ Available client platforms
 
 [packages/core/src/types.ts:603](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L603)
 
-***
+---
 
 ### TELEGRAM
 

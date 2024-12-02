@@ -4,7 +4,7 @@
 
 ## Type Parameters
 
-• **CacheAdapter** *extends* [`ICacheAdapter`](../interfaces/ICacheAdapter.md) = [`ICacheAdapter`](../interfaces/ICacheAdapter.md)
+• **CacheAdapter** _extends_ [`ICacheAdapter`](../interfaces/ICacheAdapter.md) = [`ICacheAdapter`](../interfaces/ICacheAdapter.md)
 
 ## Implements
 
@@ -64,7 +64,7 @@
 
 [packages/core/src/cache.ts:97](https://github.com/monilpat/eliza/blob/main/packages/core/src/cache.ts#L97)
 
-***
+---
 
 ### set()
 
@@ -94,7 +94,7 @@
 
 [packages/core/src/cache.ts:116](https://github.com/monilpat/eliza/blob/main/packages/core/src/cache.ts#L116)
 
-***
+---
 
 ### delete()
 

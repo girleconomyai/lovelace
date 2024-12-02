@@ -14,7 +14,7 @@ Properties
 
 [packages/core/src/types.ts:978](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L978)
 
-***
+---
 
 ### serverUrl
 
@@ -24,7 +24,7 @@ Properties
 
 [packages/core/src/types.ts:979](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L979)
 
-***
+---
 
 ### databaseAdapter
 
@@ -34,7 +34,7 @@ Properties
 
 [packages/core/src/types.ts:980](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L980)
 
-***
+---
 
 ### token
 
@@ -44,7 +44,7 @@ Properties
 
 [packages/core/src/types.ts:981](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L981)
 
-***
+---
 
 ### modelProvider
 
@@ -54,7 +54,7 @@ Properties
 
 [packages/core/src/types.ts:982](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L982)
 
-***
+---
 
 ### imageModelProvider
 
@@ -64,7 +64,7 @@ Properties
 
 [packages/core/src/types.ts:983](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L983)
 
-***
+---
 
 ### character
 
@@ -74,7 +74,7 @@ Properties
 
 [packages/core/src/types.ts:984](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L984)
 
-***
+---
 
 ### providers
 
@@ -84,7 +84,7 @@ Properties
 
 [packages/core/src/types.ts:985](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L985)
 
-***
+---
 
 ### actions
 
@@ -94,7 +94,7 @@ Properties
 
 [packages/core/src/types.ts:986](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L986)
 
-***
+---
 
 ### evaluators
 
@@ -104,7 +104,7 @@ Properties
 
 [packages/core/src/types.ts:987](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L987)
 
-***
+---
 
 ### plugins
 
@@ -114,7 +114,7 @@ Properties
 
 [packages/core/src/types.ts:988](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L988)
 
-***
+---
 
 ### messageManager
 
@@ -124,7 +124,7 @@ Properties
 
 [packages/core/src/types.ts:990](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L990)
 
-***
+---
 
 ### descriptionManager
 
@@ -134,7 +134,7 @@ Properties
 
 [packages/core/src/types.ts:991](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L991)
 
-***
+---
 
 ### documentsManager
 
@@ -144,7 +144,7 @@ Properties
 
 [packages/core/src/types.ts:992](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L992)
 
-***
+---
 
 ### knowledgeManager
 
@@ -154,7 +154,7 @@ Properties
 
 [packages/core/src/types.ts:993](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L993)
 
-***
+---
 
 ### loreManager
 
@@ -164,7 +164,7 @@ Properties
 
 [packages/core/src/types.ts:994](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L994)
 
-***
+---
 
 ### cacheManager
 
@@ -174,7 +174,7 @@ Properties
 
 [packages/core/src/types.ts:996](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L996)
 
-***
+---
 
 ### services
 
@@ -198,7 +198,7 @@ Properties
 
 [packages/core/src/types.ts:1000](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L1000)
 
-***
+---
 
 ### registerMemoryManager()
 
@@ -216,7 +216,7 @@ Properties
 
 [packages/core/src/types.ts:1002](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L1002)
 
-***
+---
 
 ### getMemoryManager()
 
@@ -234,7 +234,7 @@ Properties
 
 [packages/core/src/types.ts:1004](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L1004)
 
-***
+---
 
 ### getService()
 
@@ -242,7 +242,7 @@ Properties
 
 #### Type Parameters
 
-• **T** *extends* [`Service`](../classes/Service.md)
+• **T** _extends_ [`Service`](../classes/Service.md)
 
 #### Parameters
 
@@ -256,7 +256,7 @@ Properties
 
 [packages/core/src/types.ts:1006](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L1006)
 
-***
+---
 
 ### registerService()
 
@@ -274,7 +274,7 @@ Properties
 
 [packages/core/src/types.ts:1008](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L1008)
 
-***
+---
 
 ### getSetting()
 
@@ -292,7 +292,7 @@ Properties
 
 [packages/core/src/types.ts:1010](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L1010)
 
-***
+---
 
 ### getConversationLength()
 
@@ -308,7 +308,7 @@ Methods
 
 [packages/core/src/types.ts:1013](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L1013)
 
-***
+---
 
 ### processActions()
 
@@ -332,7 +332,7 @@ Methods
 
 [packages/core/src/types.ts:1015](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L1015)
 
-***
+---
 
 ### evaluate()
 
@@ -354,7 +354,7 @@ Methods
 
 [packages/core/src/types.ts:1022](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L1022)
 
-***
+---
 
 ### ensureParticipantExists()
 
@@ -374,7 +374,7 @@ Methods
 
 [packages/core/src/types.ts:1028](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L1028)
 
-***
+---
 
 ### ensureUserExists()
 
@@ -398,7 +398,7 @@ Methods
 
 [packages/core/src/types.ts:1030](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L1030)
 
-***
+---
 
 ### registerAction()
 
@@ -416,7 +416,7 @@ Methods
 
 [packages/core/src/types.ts:1037](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L1037)
 
-***
+---
 
 ### ensureConnection()
 
@@ -442,7 +442,7 @@ Methods
 
 [packages/core/src/types.ts:1039](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L1039)
 
-***
+---
 
 ### ensureParticipantInRoom()
 
@@ -462,7 +462,7 @@ Methods
 
 [packages/core/src/types.ts:1047](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L1047)
 
-***
+---
 
 ### ensureRoomExists()
 
@@ -480,7 +480,7 @@ Methods
 
 [packages/core/src/types.ts:1049](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L1049)
 
-***
+---
 
 ### composeState()
 
@@ -500,7 +500,7 @@ Methods
 
 [packages/core/src/types.ts:1051](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L1051)
 
-***
+---
 
 ### updateRecentMessageState()
 

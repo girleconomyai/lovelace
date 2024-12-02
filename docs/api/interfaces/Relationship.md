@@ -16,7 +16,7 @@ Unique identifier
 
 [packages/core/src/types.ts:471](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L471)
 
-***
+---
 
 ### userA
 
@@ -28,7 +28,7 @@ First user ID
 
 [packages/core/src/types.ts:474](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L474)
 
-***
+---
 
 ### userB
 
@@ -40,7 +40,7 @@ Second user ID
 
 [packages/core/src/types.ts:477](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L477)
 
-***
+---
 
 ### userId
 
@@ -52,7 +52,7 @@ Primary user ID
 
 [packages/core/src/types.ts:480](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L480)
 
-***
+---
 
 ### roomId
 
@@ -64,7 +64,7 @@ Associated room ID
 
 [packages/core/src/types.ts:483](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L483)
 
-***
+---
 
 ### status
 
@@ -76,7 +76,7 @@ Relationship status
 
 [packages/core/src/types.ts:486](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L486)
 
-***
+---
 
 ### createdAt?
 

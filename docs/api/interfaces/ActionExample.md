@@ -16,7 +16,7 @@ User associated with the example
 
 [packages/core/src/types.ts:39](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L39)
 
-***
+---
 
 ### content
 

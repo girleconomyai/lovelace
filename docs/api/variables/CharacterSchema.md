@@ -22,7 +22,7 @@ Main Character schema
 
 ### modelProvider
 
-> **modelProvider**: `ZodNativeEnum`\<*typeof* [`ModelProviderName`](../enumerations/ModelProviderName.md)\>
+> **modelProvider**: `ZodNativeEnum`\<_typeof_ [`ModelProviderName`](../enumerations/ModelProviderName.md)\>
 
 ### modelEndpointOverride
 
@@ -62,7 +62,7 @@ Main Character schema
 
 ### clients
 
-> **clients**: `ZodArray`\<`ZodNativeEnum`\<*typeof* [`Clients`](../enumerations/Clients.md)\>, `"many"`\>
+> **clients**: `ZodArray`\<`ZodNativeEnum`\<_typeof_ [`Clients`](../enumerations/Clients.md)\>, `"many"`\>
 
 ### plugins
 

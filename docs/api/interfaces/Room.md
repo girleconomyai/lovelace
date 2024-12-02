@@ -16,7 +16,7 @@ Unique identifier
 
 [packages/core/src/types.ts:531](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L531)
 
-***
+---
 
 ### participants
 

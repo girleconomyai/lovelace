@@ -16,7 +16,7 @@ Unique identifier
 
 [packages/core/src/types.ts:520](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L520)
 
-***
+---
 
 ### account
 

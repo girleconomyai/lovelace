@@ -24,7 +24,7 @@
 
 [packages/core/src/types.ts:949](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L949)
 
-***
+---
 
 ### set()
 
@@ -50,7 +50,7 @@
 
 [packages/core/src/types.ts:950](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L950)
 
-***
+---
 
 ### delete()
 

@@ -16,7 +16,7 @@ Unique identifier
 
 [packages/core/src/types.ts:497](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L497)
 
-***
+---
 
 ### name
 
@@ -28,7 +28,7 @@ Display name
 
 [packages/core/src/types.ts:500](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L500)
 
-***
+---
 
 ### username
 
@@ -40,7 +40,7 @@ Username
 
 [packages/core/src/types.ts:503](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L503)
 
-***
+---
 
 ### details?
 
@@ -50,13 +50,13 @@ Optional additional details
 
 #### Index Signature
 
- \[`key`: `string`\]: `any`
+\[`key`: `string`\]: `any`
 
 #### Defined in
 
 [packages/core/src/types.ts:506](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L506)
 
-***
+---
 
 ### email?
 
@@ -68,7 +68,7 @@ Optional email
 
 [packages/core/src/types.ts:509](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L509)
 
-***
+---
 
 ### avatarUrl?
 

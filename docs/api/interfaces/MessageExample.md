@@ -16,7 +16,7 @@ Associated user
 
 [packages/core/src/types.ts:357](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L357)
 
-***
+---
 
 ### content
 

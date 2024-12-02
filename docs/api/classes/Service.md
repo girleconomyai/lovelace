@@ -38,7 +38,7 @@
 
 [packages/core/src/types.ts:957](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L957)
 
-***
+---
 
 ### serviceType
 
@@ -62,7 +62,7 @@
 
 #### Type Parameters
 
-• **T** *extends* [`Service`](Service.md)
+• **T** _extends_ [`Service`](Service.md)
 
 #### Returns
 
@@ -72,7 +72,7 @@
 
 [packages/core/src/types.ts:961](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L961)
 
-***
+---
 
 ### initialize()
 

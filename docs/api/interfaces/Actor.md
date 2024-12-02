@@ -16,7 +16,7 @@ Display name
 
 [packages/core/src/types.ts:61](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L61)
 
-***
+---
 
 ### username
 
@@ -28,7 +28,7 @@ Username/handle
 
 [packages/core/src/types.ts:64](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L64)
 
-***
+---
 
 ### details
 
@@ -58,7 +58,7 @@ Favorite quote
 
 [packages/core/src/types.ts:67](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L67)
 
-***
+---
 
 ### id
 

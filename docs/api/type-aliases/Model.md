@@ -32,21 +32,21 @@ Maximum input tokens
 
 Maximum output tokens
 
-### settings.frequency\_penalty?
+### settings.frequency_penalty?
 
-> `optional` **frequency\_penalty**: `number`
+> `optional` **frequency_penalty**: `number`
 
 Optional frequency penalty
 
-### settings.presence\_penalty?
+### settings.presence_penalty?
 
-> `optional` **presence\_penalty**: `number`
+> `optional` **presence_penalty**: `number`
 
 Optional presence penalty
 
-### settings.repetition\_penalty?
+### settings.repetition_penalty?
 
-> `optional` **repetition\_penalty**: `number`
+> `optional` **repetition_penalty**: `number`
 
 Optional repetition penalty
 

@@ -6,7 +6,7 @@ Represents the current state/context of a conversation
 
 ## Indexable
 
- \[`key`: `string`\]: `unknown`
+\[`key`: `string`\]: `unknown`
 
 ## Properties
 
@@ -20,7 +20,7 @@ ID of user who sent current message
 
 [packages/core/src/types.ts:240](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L240)
 
-***
+---
 
 ### agentId?
 
@@ -32,7 +32,7 @@ ID of agent in conversation
 
 [packages/core/src/types.ts:243](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L243)
 
-***
+---
 
 ### bio
 
@@ -44,7 +44,7 @@ Agent's biography
 
 [packages/core/src/types.ts:246](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L246)
 
-***
+---
 
 ### lore
 
@@ -56,7 +56,7 @@ Agent's background lore
 
 [packages/core/src/types.ts:249](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L249)
 
-***
+---
 
 ### messageDirections
 
@@ -68,7 +68,7 @@ Message handling directions
 
 [packages/core/src/types.ts:252](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L252)
 
-***
+---
 
 ### postDirections
 
@@ -80,7 +80,7 @@ Post handling directions
 
 [packages/core/src/types.ts:255](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L255)
 
-***
+---
 
 ### roomId
 
@@ -92,7 +92,7 @@ Current room/conversation ID
 
 [packages/core/src/types.ts:258](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L258)
 
-***
+---
 
 ### agentName?
 
@@ -104,7 +104,7 @@ Optional agent name
 
 [packages/core/src/types.ts:261](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L261)
 
-***
+---
 
 ### senderName?
 
@@ -116,7 +116,7 @@ Optional message sender name
 
 [packages/core/src/types.ts:264](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L264)
 
-***
+---
 
 ### actors
 
@@ -128,7 +128,7 @@ String representation of conversation actors
 
 [packages/core/src/types.ts:267](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L267)
 
-***
+---
 
 ### actorsData?
 
@@ -140,7 +140,7 @@ Optional array of actor objects
 
 [packages/core/src/types.ts:270](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L270)
 
-***
+---
 
 ### goals?
 
@@ -152,7 +152,7 @@ Optional string representation of goals
 
 [packages/core/src/types.ts:273](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L273)
 
-***
+---
 
 ### goalsData?
 
@@ -164,7 +164,7 @@ Optional array of goal objects
 
 [packages/core/src/types.ts:276](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L276)
 
-***
+---
 
 ### recentMessages
 
@@ -176,7 +176,7 @@ Recent message history as string
 
 [packages/core/src/types.ts:279](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L279)
 
-***
+---
 
 ### recentMessagesData
 
@@ -188,7 +188,7 @@ Recent message objects
 
 [packages/core/src/types.ts:282](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L282)
 
-***
+---
 
 ### actionNames?
 
@@ -200,7 +200,7 @@ Optional valid action names
 
 [packages/core/src/types.ts:285](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L285)
 
-***
+---
 
 ### actions?
 
@@ -212,7 +212,7 @@ Optional action descriptions
 
 [packages/core/src/types.ts:288](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L288)
 
-***
+---
 
 ### actionsData?
 
@@ -224,7 +224,7 @@ Optional action objects
 
 [packages/core/src/types.ts:291](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L291)
 
-***
+---
 
 ### actionExamples?
 
@@ -236,7 +236,7 @@ Optional action examples
 
 [packages/core/src/types.ts:294](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L294)
 
-***
+---
 
 ### providers?
 
@@ -248,7 +248,7 @@ Optional provider descriptions
 
 [packages/core/src/types.ts:297](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L297)
 
-***
+---
 
 ### responseData?
 
@@ -260,7 +260,7 @@ Optional response content
 
 [packages/core/src/types.ts:300](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L300)
 
-***
+---
 
 ### recentInteractionsData?
 
@@ -272,7 +272,7 @@ Optional recent interaction objects
 
 [packages/core/src/types.ts:303](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L303)
 
-***
+---
 
 ### recentInteractions?
 
@@ -284,7 +284,7 @@ Optional recent interactions string
 
 [packages/core/src/types.ts:306](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L306)
 
-***
+---
 
 ### formattedConversation?
 
@@ -296,7 +296,7 @@ Optional formatted conversation
 
 [packages/core/src/types.ts:309](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L309)
 
-***
+---
 
 ### knowledge?
 
@@ -308,7 +308,7 @@ Optional formatted knowledge
 
 [packages/core/src/types.ts:312](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L312)
 
-***
+---
 
 ### knowledgeData?
 

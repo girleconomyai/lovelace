@@ -16,7 +16,7 @@ Evaluation context
 
 [packages/core/src/types.ts:419](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L419)
 
-***
+---
 
 ### messages
 
@@ -28,7 +28,7 @@ Example messages
 
 [packages/core/src/types.ts:422](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L422)
 
-***
+---
 
 ### outcome
 

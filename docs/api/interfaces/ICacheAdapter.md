@@ -20,7 +20,7 @@
 
 [packages/core/src/cache.ts:11](https://github.com/monilpat/eliza/blob/main/packages/core/src/cache.ts#L11)
 
-***
+---
 
 ### set()
 
@@ -40,7 +40,7 @@
 
 [packages/core/src/cache.ts:12](https://github.com/monilpat/eliza/blob/main/packages/core/src/cache.ts#L12)
 
-***
+---
 
 ### delete()
 

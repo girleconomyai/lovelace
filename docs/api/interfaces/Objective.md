@@ -16,7 +16,7 @@ Optional unique identifier
 
 [packages/core/src/types.ts:87](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L87)
 
-***
+---
 
 ### description
 
@@ -28,7 +28,7 @@ Description of what needs to be achieved
 
 [packages/core/src/types.ts:90](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L90)
 
-***
+---
 
 ### completed
 

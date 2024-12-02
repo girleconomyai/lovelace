@@ -12,7 +12,7 @@
 
 [packages/core/src/types.ts:905](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L905)
 
-***
+---
 
 ### tableName
 
@@ -22,7 +22,7 @@
 
 [packages/core/src/types.ts:906](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L906)
 
-***
+---
 
 ### constructor
 
@@ -50,7 +50,7 @@
 
 [packages/core/src/types.ts:909](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L909)
 
-***
+---
 
 ### getMemories()
 
@@ -78,7 +78,7 @@
 
 [packages/core/src/types.ts:911](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L911)
 
-***
+---
 
 ### getCachedEmbeddings()
 
@@ -96,7 +96,7 @@
 
 [packages/core/src/types.ts:919](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L919)
 
-***
+---
 
 ### getMemoryById()
 
@@ -114,7 +114,7 @@
 
 [packages/core/src/types.ts:923](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L923)
 
-***
+---
 
 ### getMemoriesByRoomIds()
 
@@ -134,7 +134,7 @@
 
 [packages/core/src/types.ts:924](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L924)
 
-***
+---
 
 ### searchMemoriesByEmbedding()
 
@@ -146,7 +146,7 @@
 
 • **opts**
 
-• **opts.match\_threshold?**: `number`
+• **opts.match_threshold?**: `number`
 
 • **opts.count?**: `number`
 
@@ -162,7 +162,7 @@
 
 [packages/core/src/types.ts:925](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L925)
 
-***
+---
 
 ### createMemory()
 
@@ -182,7 +182,7 @@
 
 [packages/core/src/types.ts:935](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L935)
 
-***
+---
 
 ### removeMemory()
 
@@ -200,7 +200,7 @@
 
 [packages/core/src/types.ts:937](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L937)
 
-***
+---
 
 ### removeAllMemories()
 
@@ -218,7 +218,7 @@
 
 [packages/core/src/types.ts:939](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L939)
 
-***
+---
 
 ### countMemories()
 

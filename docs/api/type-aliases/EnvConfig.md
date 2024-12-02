@@ -2,7 +2,7 @@
 
 # Type Alias: EnvConfig
 
-> **EnvConfig**: `z.infer`\<*typeof* [`envSchema`](../variables/envSchema.md)\>
+> **EnvConfig**: `z.infer`\<_typeof_ [`envSchema`](../variables/envSchema.md)\>
 
 Type inference
 

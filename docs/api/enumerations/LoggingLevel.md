@@ -12,7 +12,7 @@
 
 [packages/core/src/types.ts:1149](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L1149)
 
-***
+---
 
 ### VERBOSE
 
@@ -22,7 +22,7 @@
 
 [packages/core/src/types.ts:1150](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L1150)
 
-***
+---
 
 ### NONE
 

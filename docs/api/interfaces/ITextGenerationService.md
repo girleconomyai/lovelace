@@ -50,7 +50,7 @@ Add abstract initialize method that must be implemented by derived classes
 
 [packages/core/src/types.ts:973](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L973)
 
-***
+---
 
 ### initializeModel()
 
@@ -64,7 +64,7 @@ Add abstract initialize method that must be implemented by derived classes
 
 [packages/core/src/types.ts:1082](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L1082)
 
-***
+---
 
 ### queueMessageCompletion()
 
@@ -78,11 +78,11 @@ Add abstract initialize method that must be implemented by derived classes
 
 • **stop**: `string`[]
 
-• **frequency\_penalty**: `number`
+• **frequency_penalty**: `number`
 
-• **presence\_penalty**: `number`
+• **presence_penalty**: `number`
 
-• **max\_tokens**: `number`
+• **max_tokens**: `number`
 
 #### Returns
 
@@ -92,7 +92,7 @@ Add abstract initialize method that must be implemented by derived classes
 
 [packages/core/src/types.ts:1083](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L1083)
 
-***
+---
 
 ### queueTextCompletion()
 
@@ -106,11 +106,11 @@ Add abstract initialize method that must be implemented by derived classes
 
 • **stop**: `string`[]
 
-• **frequency\_penalty**: `number`
+• **frequency_penalty**: `number`
 
-• **presence\_penalty**: `number`
+• **presence_penalty**: `number`
 
-• **max\_tokens**: `number`
+• **max_tokens**: `number`
 
 #### Returns
 
@@ -120,7 +120,7 @@ Add abstract initialize method that must be implemented by derived classes
 
 [packages/core/src/types.ts:1091](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L1091)
 
-***
+---
 
 ### getEmbeddingResponse()
 

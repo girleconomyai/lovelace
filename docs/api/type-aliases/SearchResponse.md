@@ -10,9 +10,9 @@
 
 > **query**: `string`
 
-### follow\_up\_questions
+### follow_up_questions
 
-> **follow\_up\_questions**: `string`[] \| `null`
+> **follow_up_questions**: `string`[] \| `null`
 
 ### answer
 
@@ -26,9 +26,9 @@
 
 > **results**: [`SearchResult`](SearchResult.md)[]
 
-### response\_time
+### response_time
 
-> **response\_time**: `number`
+> **response_time**: `number`
 
 ## Defined in
 

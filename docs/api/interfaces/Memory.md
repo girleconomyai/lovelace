@@ -16,7 +16,7 @@ Optional unique identifier
 
 [packages/core/src/types.ts:325](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L325)
 
-***
+---
 
 ### userId
 
@@ -28,7 +28,7 @@ Associated user ID
 
 [packages/core/src/types.ts:328](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L328)
 
-***
+---
 
 ### agentId
 
@@ -40,7 +40,7 @@ Associated agent ID
 
 [packages/core/src/types.ts:331](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L331)
 
-***
+---
 
 ### createdAt?
 
@@ -52,7 +52,7 @@ Optional creation timestamp
 
 [packages/core/src/types.ts:334](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L334)
 
-***
+---
 
 ### content
 
@@ -64,7 +64,7 @@ Memory content
 
 [packages/core/src/types.ts:337](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L337)
 
-***
+---
 
 ### embedding?
 
@@ -76,7 +76,7 @@ Optional embedding vector
 
 [packages/core/src/types.ts:340](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L340)
 
-***
+---
 
 ### roomId
 
@@ -88,7 +88,7 @@ Associated room ID
 
 [packages/core/src/types.ts:343](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L343)
 
-***
+---
 
 ### unique?
 
@@ -100,7 +100,7 @@ Whether memory is unique
 
 [packages/core/src/types.ts:346](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L346)
 
-***
+---
 
 ### similarity?
 

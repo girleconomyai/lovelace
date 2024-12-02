@@ -14,7 +14,7 @@ Status enum for goals
 
 [packages/core/src/types.ts:100](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L100)
 
-***
+---
 
 ### FAILED
 
@@ -24,11 +24,11 @@ Status enum for goals
 
 [packages/core/src/types.ts:101](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L101)
 
-***
+---
 
-### IN\_PROGRESS
+### IN_PROGRESS
 
-> **IN\_PROGRESS**: `"IN_PROGRESS"`
+> **IN_PROGRESS**: `"IN_PROGRESS"`
 
 #### Defined in
 

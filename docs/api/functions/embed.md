@@ -4,7 +4,7 @@
 
 > **embed**(`runtime`, `input`): `Promise`\<`number`[]\>
 
-Gets embeddings from a remote API endpoint.  Falls back to local BGE/384
+Gets embeddings from a remote API endpoint. Falls back to local BGE/384
 
 ## Parameters
 

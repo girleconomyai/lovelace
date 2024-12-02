@@ -4,15 +4,15 @@
 
 ## Enumeration Members
 
-### IMAGE\_DESCRIPTION
+### IMAGE_DESCRIPTION
 
-> **IMAGE\_DESCRIPTION**: `"image_description"`
+> **IMAGE_DESCRIPTION**: `"image_description"`
 
 #### Defined in
 
 [packages/core/src/types.ts:1138](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L1138)
 
-***
+---
 
 ### TRANSCRIPTION
 
@@ -22,7 +22,7 @@
 
 [packages/core/src/types.ts:1139](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L1139)
 
-***
+---
 
 ### VIDEO
 
@@ -32,17 +32,17 @@
 
 [packages/core/src/types.ts:1140](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L1140)
 
-***
+---
 
-### TEXT\_GENERATION
+### TEXT_GENERATION
 
-> **TEXT\_GENERATION**: `"text_generation"`
+> **TEXT_GENERATION**: `"text_generation"`
 
 #### Defined in
 
 [packages/core/src/types.ts:1141](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L1141)
 
-***
+---
 
 ### BROWSER
 
@@ -52,17 +52,17 @@
 
 [packages/core/src/types.ts:1142](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L1142)
 
-***
+---
 
-### SPEECH\_GENERATION
+### SPEECH_GENERATION
 
-> **SPEECH\_GENERATION**: `"speech_generation"`
+> **SPEECH_GENERATION**: `"speech_generation"`
 
 #### Defined in
 
 [packages/core/src/types.ts:1143](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L1143)
 
-***
+---
 
 ### PDF
 
@@ -72,7 +72,7 @@
 
 [packages/core/src/types.ts:1144](https://github.com/monilpat/eliza/blob/main/packages/core/src/types.ts#L1144)
 
-***
+---
 
 ### BUTTPLUG
 

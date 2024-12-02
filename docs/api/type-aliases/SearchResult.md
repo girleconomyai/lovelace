@@ -22,9 +22,9 @@
 
 > **score**: `number`
 
-### raw\_content
+### raw_content
 
-> **raw\_content**: `string` \| `null`
+> **raw_content**: `string` \| `null`
 
 ## Defined in
 
