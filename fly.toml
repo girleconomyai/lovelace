@@ -20,3 +20,9 @@ processes = ['app']
 memory = '2gb'
 cpu_kind = 'shared'
 cpus = 1
+
+[mounts]
+source = "data"
+destination = "/data"
+processes = ["app"]
+initial_size = "20gb"
