@@ -401,7 +401,12 @@ export function createAgent(
                 : null,
             ...(getSecret(character, "COINBASE_API_KEY") &&
             getSecret(character, "COINBASE_PRIVATE_KEY")
-                ? [coinbaseMassPaymentsPlugin, tradePlugin, tokenContractPlugin, advancedTradePlugin]
+                ? [
+                      coinbaseMassPaymentsPlugin,
+                      tradePlugin,
+                      tokenContractPlugin,
+                      advancedTradePlugin,
+                  ]
                 : []),
             getSecret(character, "COINBASE_API_KEY") &&
             getSecret(character, "COINBASE_PRIVATE_KEY") &&
