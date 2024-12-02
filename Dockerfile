@@ -1,6 +1,8 @@
 # Use a specific Node.js version for better reproducibility
 FROM node:23.3.0-slim AS builder
 
+LABEL fly_launch_runtime="Node.js"
+
 # Install pnpm globally and install necessary build tools
 RUN npm install -g pnpm@9.4.0 && \
     apt-get update && \
@@ -51,5 +53,13 @@ COPY --from=builder /app/packages ./packages
 COPY --from=builder /app/scripts ./scripts
 COPY --from=builder /app/characters ./characters
 
+# Setup sqlite3 on a separate volume
+RUN mkdir -p /data
+VOLUME /data
+
+# Start the server by default, this can be overwritten at runtime
+EXPOSE 3000
+ENV DATABASE_URL="file:///data/sqlite.db"
+
 # Set the command to run the application
-CMD ["pnpm", "start", "--non-interactive"]
+CMD ["pnpm", "start", "--character=characters/lovelace.character.json"]
