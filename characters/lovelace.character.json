@@ -1,7 +1,7 @@
 {
     "name": "Lovelace",
     "plugins": [],
-    "clients": ["telegram"],
+    "clients": ["telegram", "twitter"],
     "modelProvider": "openrouter",
     "settings": {
         "secrets": {},
